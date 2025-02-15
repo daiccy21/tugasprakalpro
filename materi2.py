@@ -1,0 +1,5 @@
+Nama = input("Nama Anda : ")
+Alamat = input("Alamat Tinggal Anda : " )
+Umur = input("Umur Anda : ")
+TL = input("Tempat Lahir Anda : ")
+Tgl = input("Tanggal Lahir Anda : ")
